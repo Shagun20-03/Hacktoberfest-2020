@@ -1,2 +1,1 @@
-# udemy
-Just a try
+# Hacktoberfest 2020
